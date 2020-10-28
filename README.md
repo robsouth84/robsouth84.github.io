@@ -1,5 +1,6 @@
 ---
-title: welcome
+title: "welcome.."
+type: pages
 ---
 ## Welcome to GitHub Pages
 
