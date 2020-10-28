@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "index page.."
 permalink: /TEST/
-
+type: pages
 ---
 
 # test
