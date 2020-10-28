@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "index page.."
-permalink: /TEST/
+permalink: /index/
 type: pages
 ---
 
